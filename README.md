@@ -36,7 +36,7 @@ Instead:
 
 - **AOO**, in this implementation, is calculated as the area of occupied hydrographic units and is therefore **equivalent to the distribution area**.
 
-- This approach was adopted following **([Freshwater species mapping standards for IUCN Red List assessments](https://nc.iucnredlist.org/redlist/content/attachment_files/Freshwater_Mapping_Protocol.pdf)** and is based on the premise that freshwater fish species distributions are strongly constrained by **drainage systems**;
+- This approach was adopted following **[Freshwater species mapping standards for IUCN Red List assessments](https://nc.iucnredlist.org/redlist/content/attachment_files/Freshwater_Mapping_Protocol.pdf)** and is based on the premise that freshwater fish species distributions are strongly constrained by **drainage systems**;
 
 Results produced by this workflow should **not be directly compared** to grid-based AOO estimates calculated under the global IUCN Red List standard.
 

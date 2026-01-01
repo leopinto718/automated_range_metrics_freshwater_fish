@@ -1,4 +1,4 @@
-# Automated calculation of EOO and AOO for regional conservation assessments
+# Automated calculation of EOO and AOO for regional conservation assessments of freshwater fish
 
 This repository contains R scripts developed to **automate the calculation of Extent of Occurrence (EOO) and Area of Occupancy (AOO)** as part of a **regional conservation assessment of freshwater fish species**.
 
